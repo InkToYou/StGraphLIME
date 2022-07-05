@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-learn
+cvxpy==1.1.7
+spams==2.6.2.5
+torch==1.9.0
+torch_geometric==1.7.2
+torch-geometric-temporal==0.41
+dive-into-graphs==0.1.1
