@@ -1,0 +1,11 @@
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+data/
+results/
+*.egg-info/
+*.model
+*.pkl
+*.png
+*.data
+*.txt
